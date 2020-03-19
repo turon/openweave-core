@@ -42,8 +42,6 @@
 using namespace nl::Weave::DeviceLayer;
 using namespace nl::Weave::DeviceLayer::Internal;
 
-NetworkTelemetryManager NetworkTelemetryManager::sInstance;
-
 WeaveTelemetryBase::WeaveTelemetryBase()
 {
 }
